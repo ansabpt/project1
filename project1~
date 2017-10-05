@@ -1,0 +1,1 @@
+ct product data like Product name, images, description, price etc from Amazon.In for Adidas Shoes. Extract data in CSV format and connect this with a dropbox folder so that the csv file extracted is automatically uploaded into dropbox.( Hint: dropbox api). Extract data over a period of seven days automatically by using a scheduling mechanism ( cron job )
